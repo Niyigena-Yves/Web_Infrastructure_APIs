@@ -2,7 +2,7 @@
 
 A comprehensive weather dashboard that provides real-time weather data, forecasts, and analytics using the Open-Meteo API. This application serves a practical purpose by delivering accurate weather information for any location worldwide.
 
-# Demo: https://youtu.be/YYXkiY5w0Bo?si=nEqGw-InU9E5_my8
+Demo Video: https://youtu.be/YYXkiY5w0Bo?si=nEqGw-InU9E5_my8
 
 ## Features
 
