@@ -2,7 +2,7 @@
 
 A comprehensive weather dashboard that provides real-time weather data, forecasts, and analytics using the Open-Meteo API. This application serves a practical purpose by delivering accurate weather information for any location worldwide.
 
-## 🌟 Features
+## Features
 
 - **Real-time Weather Data**: Current temperature, humidity, wind speed, pressure, and UV index
 - **7-Day Forecast**: Detailed weather predictions with temperature ranges
@@ -345,8 +345,6 @@ curl "https://api.open-meteo.com/v1/forecast?latitude=40.71&longitude=-74.01&cur
 
 ##  Development Notes
 
-This weather dashboard was built to provide genuine value to users by delivering accurate, real-time weather information with an intuitive interface. The application demonstrates:
-
 - Professional API integration practices
 - Scalable containerized deployment
 - User-centric design principles
@@ -354,23 +352,4 @@ This weather dashboard was built to provide genuine value to users by delivering
 - Performance optimization
 - Security best practices
 
-##  Demo Script
-
-For the 2-minute demo video:
-
-1. **Show local development** (30 seconds)
-   - Start the application locally
-   - Demonstrate weather lookup for different cities
-   - Show filtering and sorting features
-
-2. **Demonstrate load balancing** (60 seconds)
-   - Access application through load balancer
-   - Show server information changing between instances
-   - Display analytics showing distributed requests
-
-3. **Highlight key features** (30 seconds)
-   - Mobile responsiveness
-   - Error handling
-   - Real-time data updates
-
-The application successfully meets all assignment requirements while providing a genuinely useful service that users would actually want to use for checking weather conditions worldwide.
+The application provides a genuinely useful service that users would actually want to use for checking weather conditions worldwide.
